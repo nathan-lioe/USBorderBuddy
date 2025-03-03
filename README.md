@@ -10,10 +10,10 @@ Features
 ## Prerequisites
 Before running this application, you need to have:
 
--Python 3.7 or higher
--A Google Cloud Platform account
--Access to Google BigQuery or a similar BigQuery service
--Appropriate credentials file (JSON) for your BigQuery service
+- Python 3.7 or higher
+- A Google Cloud Platform account
+- Access to Google BigQuery or a similar BigQuery service
+- Appropriate credentials file (JSON) for your BigQuery service
 
 ## How to run 
 
