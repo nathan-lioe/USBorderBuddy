@@ -2,10 +2,10 @@
 A Streamlit web application that allows users to select a US state and see all its neighboring states. The application uses Google BigQuery to query public geospatial data.
 
 Features
--Simple, user-friendly interface
--Dropdown menu with all US states
--Real-time display of neighboring states
--Powered by Google's public BigQuery dataset (bigquery-public-data.geo_us_boundaries.adjacent_states)
+- Simple, user-friendly interface
+- Dropdown menu with all US states
+- Real-time display of neighboring states
+- Powered by Google's public BigQuery dataset (bigquery-public-data.geo_us_boundaries.adjacent_states)
 
 ## Prerequisites
 Before running this application, you need to have:
